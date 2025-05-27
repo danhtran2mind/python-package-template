@@ -6,7 +6,7 @@
 
 
 from __future__ import annotations
-
+from RealESRGAN import RealESRGAN
 
 def hello_world(i: int = 0) -> str:
     """Doc String."""
